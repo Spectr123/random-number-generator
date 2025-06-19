@@ -4,4 +4,4 @@
 
 ### All rights reserved
 
-### Project deploy with Netlify https://random-number-generator-byspectr123.netlify.app/
+### Project deploy with Netlify
